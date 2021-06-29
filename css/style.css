@@ -1,0 +1,25 @@
+#main {
+    display:flex;
+    height: 500px;
+    width: 800px;
+}
+#header{
+     height: 200px;
+     width: 800px;
+     background-color: aqua;
+    }
+#side{
+    height: 500px;
+    width: 200px;
+    background-color: blue; 
+}
+#contents{
+    height: 500px;
+    width: 600px;
+    background-color: chartreuse;
+}
+#footer{
+    height: 100px;
+    width: 800px;
+    background-color: chocolate;
+}
